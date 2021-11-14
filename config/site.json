@@ -1,20 +1,19 @@
 {
   "icon": "/icons/128.png",
-  "title": "Spencer's OneDrive Index",
-  "maxItems": 100,
+  "title": "OneDrive Index",
+  "maxItems": 256,
   "googleFont": "Rubik",
   "googleFontWeights": [
     "400",
     "600"
   ],
-  "footer": "Powered by <a class=\"hover:underline\" href=\"https://github.com/spencerwooo/onedrive-vercel-index\" target=\"_blank\" rel=\"noopener noreferrer\">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.",
+  "footer": "Powered by <a class=\"hover:underline\" href=\"https://github.com/spencerwooo/onedrive-vercel-index\" target=\"_blank\" rel=\"noopener noreferrer\">onedrive-vercel-index</a>. Made with ❤.",
   "protectedRoutes": [
     "/🌞 Private folder/u-need-a-password",
     "/🥟 Some test files/Protected route"
   ],
   "contact": {
-    "email": "mailto:spencer.wushangbo@gmail.com",
-    "telegram": "https://t.me/realSpencerWoo",
+    "email": "mailto:bugdows@outlook.com",
     "github": "https://github.com/spencerwooo/onedrive-vercel-index"
   }
 }
